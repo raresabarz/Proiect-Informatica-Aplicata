@@ -1,0 +1,81 @@
+h1 {
+	text-align: right;
+	background-color: #65CED7;
+	border: 5px solid #3674B1;
+}
+
+
+a:link {
+  color: #65CED7;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:hover {
+  color: #3674B1;
+  background-color: #65CED7;
+  text-decoration: underline;
+}
+h4 {
+	text-align: right;
+}
+
+.big-text {
+	font-size: 30px;
+}
+
+.titlu {
+    text-align: center;
+    font-style: italic;
+    color: black;
+    margin-top: 30px;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+	background-color: #65CED7;
+}
+
+.retea {
+    text-align: center;
+}
+
+.retea img {
+    width: 1000px;
+}
+
+ul {
+    width: 300px;
+    margin: auto;
+}
+
+.slideshow-title {
+    cursor: pointer;
+    color: #444;
+}
+
+.slideshow {
+    width: 820px;
+    height: 450px;
+    margin: 20px auto;
+    background-color: #6b8797;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slideshow img {
+    width: 800px;
+    height: auto;
+}
